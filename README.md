@@ -1,1 +1,17 @@
-# humanitarian-data-bookmarks
+# İnsani veri kaynakları
+
+- [UNHCR Statistics](http://popstats.unhcr.org/)
+- [The UN Refugee Agency](http://data.unhcr.org/)
+- [Humanitarian Data Exchange](https://data.humdata.org/)
+- [IDMC (Internal Displacement Monitoring Centre)](http://www.internal-displacement.org/)
+- [Internet World Stats](http://www.internetworldstats.com/)
+- [Worldometers](http://www.worldometers.info/)
+- [100 People: A World Portrait](http://www.100people.org/)
+- [World Bank Open Data](https://data.worldbank.org/)
+- [Our World in Data](https://ourworldindata.org/)
+- [World Inequality Database](https://wid.world/)
+- [ACAPS](https://www.acaps.org/)
+- [ReliefWeb](https://reliefweb.int/)
+- [The Refugee Project](http://www.therefugeeproject.org/)
+- [Cost of Living](https://www.numbeo.com/)
+- [Humanitarian Response](https://www.humanitarianresponse.info/)
